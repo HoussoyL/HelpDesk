@@ -1,5 +1,5 @@
 # HelpDesk
-Le projet consiste en la création d'un site(en php) d'aide aux utilisateurs type HelpDesk sous frome de tickets à gérer </br>
+Le projet consiste en la création d'un site(avec php et mysql) d'aide aux utilisateurs type HelpDesk sous frome de tickets à gérer </br>
 Mon site est constitué d'une page d'accueil qui permet d'accéder aux différentes fonctionnalités. </br>
 ![Capture d’écran 2025-05-20 134626](https://github.com/user-attachments/assets/d9186272-4c6b-4082-a646-e8843b945455)
 

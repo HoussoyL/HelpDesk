@@ -11,3 +11,7 @@ Le statut du ticket apparaît selon une couleur différente en fonction de l'ét
 
 Le technicien dispose d'un accés à la page afin de modifier l'évolution de la requête et formuler une réponse pour clore le dossier. </br>
 ![Capture d’écran 2025-05-20 134933](https://github.com/user-attachments/assets/f80978eb-18f4-45a3-9080-60320216f58a)
+
+
+https://github.com/user-attachments/assets/1f0a5a72-d901-4746-9451-bba1caf74d81
+

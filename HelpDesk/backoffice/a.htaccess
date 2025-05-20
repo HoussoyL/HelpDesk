@@ -1,0 +1,4 @@
+AuthUserFile backoffice/a.htpasswd
+AuthName "Accès protégé - Veuillez saisir vos identifiants ."
+AuthType Basic
+Require valid-AuthUserFile

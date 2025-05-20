@@ -1,0 +1,11 @@
+accueil.php -> page d accueil
+base de données .sql   -> pour créer la base de données 
+cloturés.php -> consulter les tickets cloturés 
+connection .php -> pour se connecter a la base de données qui est placée dans le dossier c:/xampp/mysql/data
+consulter.php pour consulter les tickets incident a terminer (les incidents s affichent reste a choisir un pour voir les details)
+formulaire.php -> pour ouvrir un ticket 
+index php -> appelle la conection et ajoute des données a la base de données a completer avec les données du formulaire
+résultats.php ->affiche les donnees du formulaire et donne un numero d incident rajouter les données datetime et statut (ouvert) 
+
+
+tous ses fichiers doivent etre placés dans un dossier c:/xampp/htdocs/nom_du_dossier et sont executés avec un navigateur avec localhost/nom_du_dossier/nom_du_fichier.php
